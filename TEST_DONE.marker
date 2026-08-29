@@ -1,0 +1,7 @@
+QA testing complete for 2026-08-29
+Project: peana
+Build: ✅ API dist/main.js + Angular production dist/web/browser
+Tests: 19/19 passing (Jest) · smoke 23/23 · browser 20/20
+New tests: existing coverage adequate
+Issues: 1 minor (hero caption clip 390px)
+Published: ✅ Caddy (peana.proyectos.cristiancode.dev), ✅ Portfolio (es.ts+en.ts+pt.ts), ✅ GitHub, ✅ Landing, ✅ Excel
