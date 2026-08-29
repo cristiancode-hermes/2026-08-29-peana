@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+<rect width="640" height="400" fill="#E6E8E6"/>
+<polygon points="320,70 470,180 400,330 240,330 170,180" fill="#7A4E0E"/>
+<text x="320" y="210" text-anchor="middle" fill="#F4F5F4" font-size="48">20</text>
+<text x="320" y="370" text-anchor="middle" fill="#161A17" font-size="22">D20 latón</text>
+</svg>

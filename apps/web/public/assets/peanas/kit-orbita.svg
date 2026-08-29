@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+<rect width="640" height="400" fill="#121614"/>
+<circle cx="220" cy="180" r="70" fill="#6BB890"/>
+<rect x="340" y="110" width="180" height="160" fill="#D7A84A"/>
+<text x="320" y="360" text-anchor="middle" fill="#E8EEF0" font-size="22">Kit Órbita</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+<rect width="800" height="450" fill="#3a3228"/>
+<rect x="0" y="280" width="800" height="170" fill="#6b5a48"/>
+<polygon points="0,280 120,200 240,280" fill="#4a4036"/>
+<rect x="400" y="160" width="80" height="120" fill="#7A4E0E"/>
+<text x="40" y="420" fill="#F4F5F4" font-size="28" font-family="Georgia">Trincheras del Ebro</text>
+</svg>

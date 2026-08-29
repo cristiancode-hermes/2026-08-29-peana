@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+<rect width="640" height="400" fill="#F4F5F4"/>
+<rect x="240" y="80" width="160" height="220" rx="12" fill="#0F3D2A"/>
+<rect x="255" y="60" width="130" height="40" rx="6" fill="#2C322F"/>
+<text x="320" y="360" text-anchor="middle" fill="#161A17" font-size="22">Bote musgo</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+<rect width="800" height="450" fill="#1b2a22"/>
+<rect x="80" y="80" width="200" height="260" fill="#7A4E0E"/>
+<rect x="300" y="120" width="200" height="220" fill="#0F3D2A"/>
+<rect x="520" y="90" width="180" height="250" fill="#2C322F"/>
+<text x="40" y="420" fill="#F4F5F4" font-size="28" font-family="Georgia">Mesnada ibérica</text>
+</svg>
