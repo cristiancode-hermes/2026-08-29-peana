@@ -2,5 +2,5 @@
 <rect width="640" height="400" fill="#E6E8E6"/>
 <rect x="180" y="180" width="280" height="18" rx="4" fill="#2C322F"/>
 <rect x="430" y="160" width="18" height="80" fill="#7A4E0E"/>
-<text x="320" y="360" text-anchor="middle" fill="#161A17" font-size="22">Pinza</text>
+<text x="320" y="340" text-anchor="middle" fill="#161A17" font-size="22">Pinza</text>
 </svg>

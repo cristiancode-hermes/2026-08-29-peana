@@ -2,5 +2,5 @@
 <rect width="640" height="400" fill="#F4F5F4"/>
 <ellipse cx="320" cy="300" rx="90" ry="24" fill="#3a332c"/>
 <path d="M250 300 Q280 120 320 300 Q360 90 390 300" fill="#0F3D2A"/>
-<text x="320" y="360" text-anchor="middle" fill="#161A17" font-size="22">Césped tuft</text>
+<text x="320" y="340" text-anchor="middle" fill="#161A17" font-size="22">Césped tuft</text>
 </svg>

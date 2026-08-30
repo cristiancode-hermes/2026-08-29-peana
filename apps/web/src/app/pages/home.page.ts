@@ -14,7 +14,10 @@ import { KIND_LABEL, Product, eur } from '../shared/models';
         <p class="lede">Gamas de miniaturas, botes y kits con lista de materiales. Pagas y recoges con QR en el mostrador.</p>
         <a class="btn btn-primary" routerLink="/gamas">Ver gamas</a>
       </div>
-      <div class="hero-visual"><img src="/assets/gamas/mesnada.svg" alt="Peanas de la mesnada ibérica" /></div>
+      <figure class="hero-visual">
+        <img src="/assets/gamas/mesnada.svg" alt="Peanas de la mesnada ibérica" />
+        <figcaption class="hero-caption">Mesnada ibérica</figcaption>
+      </figure>
     </section>
     <input class="search" placeholder="Buscar SKU" [ngModel]="q()" (ngModelChange)="q.set($event); load()" />
     <div class="chips">

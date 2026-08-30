@@ -56,7 +56,7 @@ Auth DTO: `{ username, email, password }` / login `identifier`. Token `accessTok
 
 | Issue | Severity | Suggestion |
 |-------|----------|------------|
-| Caption del hero en 390px recorta «Mesnada ibérica» → «da ibérica» | menor | Ajustar overlay/padding de la ilustración de gama |
+| Caption del hero en 390px recorta «Mesnada ibérica» → «da ibérica» | menor | **FIXED 2026-08-30** — rótulo sacado a `figcaption.hero-caption` (HTML overlay); SVG de gamas con texto centrado + padding; captions de peanas subidos de y≥355 a y=340. Verificado 390 + 1280: texto completo, `captionInside`, sin overflow. |
 
 ## ✅ 5. Security Scan
 

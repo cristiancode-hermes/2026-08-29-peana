@@ -3,5 +3,6 @@
 <ellipse cx="400" cy="250" rx="160" ry="90" fill="#0F3D2A"/>
 <circle cx="340" cy="200" r="24" fill="#D7A84A"/>
 <circle cx="460" cy="200" r="24" fill="#D7A84A"/>
-<text x="40" y="420" fill="#F4F5F4" font-size="28" font-family="Georgia">Bestias de yeso</text>
+<rect x="160" y="378" width="480" height="48" rx="6" fill="#121614" fill-opacity="0.55"/>
+<text x="400" y="410" text-anchor="middle" fill="#F4F5F4" font-size="28" font-family="Georgia">Bestias de yeso</text>
 </svg>

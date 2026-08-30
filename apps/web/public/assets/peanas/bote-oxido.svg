@@ -2,5 +2,5 @@
 <rect width="640" height="400" fill="#F4F5F4"/>
 <rect x="240" y="80" width="160" height="220" rx="12" fill="#7A4E0E"/>
 <rect x="255" y="60" width="130" height="40" rx="6" fill="#2C322F"/>
-<text x="320" y="360" text-anchor="middle" fill="#161A17" font-size="22">Bote óxido</text>
+<text x="320" y="340" text-anchor="middle" fill="#161A17" font-size="22">Bote óxido</text>
 </svg>
